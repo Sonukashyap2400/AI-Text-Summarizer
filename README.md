@@ -33,7 +33,7 @@ Docs: OpenAPI 3.1.0 / Swagger
 Python Version: 3.10+
 
 Quick Installation (Local)
-git clone https://github.com/your-username/ai-text-summarizer.git
+git clone https://github.com/Sonukashyap2400/AI-Text-Summarizer.git
 cd ai-text-summarizer
 python -m venv venv
 source venv/bin/activate    # Linux/Mac
